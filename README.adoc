@@ -6,11 +6,8 @@
 ==== Répartition des tâches et état d'avancement (à compléter 
 [options="header,footer"]
 |=======================
-|version|rôle utilisateur     |use case   |cas...                 |  nom Etudiant 1 | nom Etudiant 2  |  nom Etudiant 3 | nom Etudiant 4
-|1    |   |  |
-|1    |  |  ||
-|1    | |  ||
-
+|version|rôle utilisateur     |use case           |  nom Etudiant 1 | nom Etudiant 2  |  nom Etudiant 3 | nom Etudiant 4
+|Exemple 1    |  Administrateur | supprimer un tournois |  | F  |  |  ||
 
 |=======================
 
@@ -25,10 +22,10 @@ Dans sa colonne il doit remplir la ligne correspondant à chaque partie qu'il a 
 
 [cols="1,2,2,5",options=header]
 |===
-| Date    | Nom         |  Lien                             | Retour
-| Sem.18  | CDC V1      |                                   |           
+| Date    | Nom         |  Lien                             | Retour Prof
+| 09/05   | CDC V1      |                                   |           
 |         |Gantt V1 Prévu|                                  |
-| 07/05  | CdC V2final|                                     |  
+| 17/05 noté  | CdC final avec V2 et V3|                                     |  
 |         | Doc. Tec. V0 |        |    
 |         | Doc User V0    |        |
 |         | Recette V0  |                      | 
@@ -38,16 +35,17 @@ Dans sa colonne il doit remplir la ligne correspondant à chaque partie qu'il a 
 |         | Code V1    |                     | 
 |         | Recette V1 |                      | 
 |         | Gantt V2 prévu |    | 
-| 07/06   | Gantt V2  réalisé    |       | 
+| 06/06   | Gantt V2  réalisé    |       | 
 |         | Doc. Util. V2 |         |         
 |         | Doc. Tec. V2 |                |     
 |         | Code V2    |                     | 
 |         | Recette V2 |                      | 
 |         | `jar` projet |    | 
-| 14/06   | Gantt V2  réalisé Final + extensions éventuelles    |       | 
-|         | Doc. Util. V2 Finale + extensions éventuelles |         |         
-|         | Doc. Tec. V2 Finale + extensions éventuelles |                |     
-|         | Code V2 Finale + extensions éventuelles    |                     | 
-|         | Recette V2 Finale + extensions éventuelles |                      | 
+| 13/06 noté   | Gantt V2 ou V3 réalisé Final + extensions éventuelles    |       | 
+|         | Doc. Util. V2 ou V3 Finale + extensions éventuelles |         |         
+|         | Doc. Tec. V2  ou V3 Finale + extensions éventuelles |                |     
+|         | Code V2 ou V3 Finale + extensions éventuelles    |                     | 
+|         | Recette V2 ou V3 Finale + extensions éventuelles |                      | 
 |         | `jar` projet Finale + extensions éventuelles |    | 
 |===
+Les dépôts non notés permettent d'avoir un retour enseignant pour vous améliorer et participent à la note de suivi de projet. Les dépôts notés sont évalué. 
